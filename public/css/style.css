@@ -1,0 +1,52 @@
+h1 {
+	text-align: center;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.resize-img {
+	height: 100px;
+	width: 200px;
+}
+
+.ar-img {
+	height: auto;
+	width: auto;
+}
+
+.padding {
+	padding: 20px 10px 0 10px;
+}
+
+.red {
+	color: red;
+}
+
+.line {
+	padding: 0 0 25px 0;
+	border-bottom: 6px solid black;
+}
+
+.margin-top {
+	margin-top: 30px;
+}
+
+.footer-font {
+	font-size: 10px;
+}
+
+.banner {
+	background-color: #D00D2D;
+	height: 150px;
+}
+
+.box {
+	background-color: #EEEEEE;
+}
+
+.float-left {
+	float: left;
+	padding-right: 15px;
+}
